@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieux importants/Le Col Blanc.md",
+                "file": "Personnages joueurs/Jean-Jean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le Col Blanc"
+              "title": "Jean-Jean"
             }
           }
         ]
@@ -188,14 +188,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "d07a2217c1043f78",
+  "active": "482b855c954700ce",
   "lastOpenFiles": [
-    "Journal de bord/001 - De l'action au Col Blanc.md",
-    "Lieux importants/Le Col Blanc.md",
+    "Resources/Images/jean-jean.png",
+    "Resources/Images/Trio_gobelin_bard_sous_un_meme_manteau(1).png",
     "Personnages joueurs/Ashton d'Elturel.md",
+    "Personnages joueurs/Jean-Jean.md",
+    "Personnages joueurs/Scott Vance.md",
     "Personnages joueurs/Gorndrak du clan Khal-Grüt.md",
     "Personnages joueurs/Viltan.md",
-    "Personnages joueurs/Scott Vance.md",
+    "Journal de bord/003 - La chute du village.md",
+    "Resources/Images/frostElemental.png",
+    "Lieux importants/Le Col Blanc.md",
+    "Journal de bord/001 - De l'action au Col Blanc.md",
     "ashton.png",
     "gorndrak.png",
     "viltan.png",
@@ -207,9 +212,7 @@
     "Resources/Images/scott.png",
     "Resources/Images/viltan.png",
     "Resources/Images/gorndrak.png",
-    "colblanc_map.png",
     "Journal de bord",
-    "Resources/Images/gobelinsBombe.png",
     "Resources/Images",
     "Resources",
     "Lieux importants",

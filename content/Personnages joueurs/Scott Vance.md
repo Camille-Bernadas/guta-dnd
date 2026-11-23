@@ -1,3 +1,5 @@
-Scott était chef d'un corps de garde à Elturel, mais suite à la mort d'un membre d'une famille noble, il est contraint de s'enfuir, accusé de meurtre.
+Scott était chef d'un corps de garde à Elturel, mais suite à la mort de l'héritier du pouvoir, il est contraint de s'enfuir, accusé de meurtre. Il s'est rendu au Col Blanc pour faire profil bas mais semble vouloir rétablir la vérité et rejoindre sa femme et sa fille, qu'il a dû quitter pour garantir leur sécurité.
 
-Ses motivations et ses raisons de rejoindre le Col Blanc sont encore inconnues, mais il semble vouloir rétablir la vérité et prendre soin d'une jeune fille au sujet de laquelle il reste très secret.![[scott.png]]
+Son ancienne vie a forgé son caractère: utilitariste et direct, il ne cherche pas à se plier à l'étiquette et aux formalités de la politesse car sa mission passe en priorité. Il ne se lamente pas pour les guerriers tombés au combat, car "ils savaient dans quoi ils s'engageait".
+
+En combat, il manie avec brillance son épée, son bouclier et son arc. Ses bottes secrètes et ses manoeuvres tactiques lui permettent de prendre l'ascendant même quand la lutte est à son désavantage. ![[scott.png]]
